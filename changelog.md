@@ -1,4 +1,4 @@
-## Magisk Manager (MD2#2.1.1) (203-1)
+## Magisk Manager (MD2#2.1.1) (203)
 Codename: Aquilus
 - Added info about modification, cause of some people who copied my project and tagged himself as the developer
 - Corrected some languages (especially Russian and Ukrainian)
