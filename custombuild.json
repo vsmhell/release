@@ -2,7 +2,7 @@
   "app": {
     "version": "7.1.1-MD2#2.1.1",
     "versionCode": "203-1",
-    "link": "https://github.com/vsmhell/release/blob/master/MagiskManagerMD2_%#2.1.1.apk?raw=true",
+    "link": "https://raw.githubusercontent.com/vsmhell/release/master/MagiskManagerMD2_#2.1.1.apk",
     "note": "https://raw.githubusercontent.com/vsmhell/release/master/changelog.md"
   },
   "uninstaller": {
