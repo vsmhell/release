@@ -2,7 +2,7 @@
   "app": {
     "version": "7.1.1-MD2V2.1.1",
     "versionCode": "204",
-    "link": "https://raw.githubusercontent.com/vsmhell/release/master/app-release.apk",
+    "link": "https://raw.githubusercontent.com/vsmhell/release/master/release-app.apk",
     "note": "https://raw.githubusercontent.com/vsmhell/release/master/changelog.md"
   },
   "uninstaller": {
@@ -14,5 +14,9 @@
     "link": "https://github.com/topjohnwu/Magisk/releases/download/v19.0/Magisk-v19.0.zip",
     "note": "https://raw.githubusercontent.com/topjohnwu/magisk_files/6378e4404ceb89979d367bcc4687d673aa02c927/notes.md",
     "md5": "e867e1c75d7e93db99a55681e11c02e1"
+  },
+  "snet": {
+    "versionCode": "11",
+    "link": "https://raw.githubusercontent.com/topjohnwu/magisk_files/master/snet.apk"
   }
 }
