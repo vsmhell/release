@@ -1,5 +1,5 @@
-## Magisk Manager (MD2#2.1.1) (203)
+## Magisk Manager (MD2#2.1.2) (203)
 Codename: Aquilus
-- Added info about modification, cause of some people who copied my project and tagged himself as the developer
-- Corrected some languages (especially Russian and Ukrainian)
-- Minor fixes
+- Updated Italian language (Thanks to Alvise Dei Rossi and Alz Alz)
+- Updated Serbian language (Thanks to Marko Djordjevic)
+- Updated Dutch language (Thanks to Pandemic from XDA)
