@@ -1,14 +1,14 @@
 ## Magisk Manager (MD2#2.1.3) (203)
-Codename: Aquilus
-• Updated Italian (Italiano) language
+## Codename: Aquilus
+#### Updated Italian (Italiano) language
 (Thanks to Alvise Dei Rossi, Alex Zorzi & Sergio Grassi)
-• Updated Serbian (Srpski | Latinica) language
+#### Updated Serbian (Srpski | Latinica) language
 (Thanks to Marko Djordjevic)
-• Updated Dutch (Nederlands) language
+#### Updated Dutch (Nederlands) language
 (Thanks to Pandemic from XDA)
-• Updated Slovak (Slovenčina) language
+#### Updated Slovak (Slovenčina) language
 (Thanks to Gouster)
-• Updated Indonesian (Bahasa Indonesia) language
+#### Updated Indonesian (Bahasa Indonesia) language
 (Thanks to Iwänz Aosip)
 
 P.S.
