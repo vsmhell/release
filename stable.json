@@ -2,7 +2,7 @@
   "app": {
     "version": "7.1.1-MD2V2.1.3",
     "versionCode": "203",
-    "link": "https://github.com/vsmhell/release/app-release.apk",
+    "link": "https://raw.githubusercontent.com/vsmhell/release/master/app-release.apk",
     "note": "https://raw.githubusercontent.com/vsmhell/release/master/changelog.md"
   },
   "uninstaller": {
